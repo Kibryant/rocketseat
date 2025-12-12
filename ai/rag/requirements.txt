@@ -1,0 +1,27 @@
+# CORE
+python-dotenv==1.0.1
+pydantic==2.7.4
+pydantic-settings==2.4.0
+
+# LANGCHAIN
+langchain==0.3.8
+langchain-core==0.3.21
+langchain-community==0.3.8
+langchain-text-splitters==0.3.1
+langchain-openai==0.2.6
+
+# EMBEDDINGS / TRANSFORMERS
+sentence-transformers==2.5.1
+torch==2.2.2
+
+# VECTOR STORE (CHROMA)
+chromadb==0.4.24
+
+# OPTIONAL & REQUIRED DEPS
+tiktoken==0.7.0
+numpy==1.26.4
+scikit-learn==1.4.2
+requests==2.31.0
+
+# JUPYTER (caso use notebook)
+jupyterlab==4.2.5
