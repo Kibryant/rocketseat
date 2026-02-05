@@ -1,0 +1,7 @@
+yfinance==0.2.44
+crewai==0.70.1
+crewai_tools==0.12.1
+langchain==0.2.16
+langchain_community==0.2.17
+langchain_openai==0.1.25
+duckduckgo_search==6.3.0
